@@ -1,6 +1,2 @@
 
-<a href="https://github.com/TeslyaSergey"><img src="https://www.mockrabbit.com/wp-content/uploads/2018/10/complete-software-developer.jpeg" class="cover"/></a>
-
-            <style>
-            .style-me {display: block; margin-left: auto; margin-right: auto;}
-            </style>
+<a href="https://github.com/TeslyaSergey"><img src="https://focus.technologycouncil.ca/wp-content/uploads/2020/06/webdevelopment-1024x683.jpg" ></a>
